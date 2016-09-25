@@ -1,6 +1,6 @@
 # terraform-deepstream.io-digital-ocean
 
-Terraform for [deepstream.io](https://deepstream.io/) on DigitalOcean
+Terraform for [deepstream.io](https://deepstream.io/) on DigitalOcean using Docker.
 
 ## Requirements:
 
